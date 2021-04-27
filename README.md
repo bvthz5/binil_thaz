@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/vincent_binil" target="blank"><img src="https://img.shields.io/twitter/follow/vincent_binil?logo=twitter&style=for-the-badge" alt="vincent_binil" /></a> </p>
 
-- 🪄­ Iâ'm currently working on [student](..)
+- 🪄­ Iâ'm currently working on [student🚸](..)
 
-- 🌱 Iâ'm currently learning **Everything 
+- 🌱 Iâ'm currently learning Everything 
 
 - 🤝 Iâ'm looking to collaborate on [...…](..)
 
